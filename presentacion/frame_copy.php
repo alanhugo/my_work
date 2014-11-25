@@ -5,7 +5,6 @@
 <link href="../css/estilosistema.css" rel="stylesheet" type="text/css">
 <title>Copyright</title>
 </head>
-
 <body>
 <p class="MsoNormal" align="center" style="text-align:center">  
 <span class="Estilo1" style="font-size: 8pt; font-family: Calibri" lang="EN-US">
